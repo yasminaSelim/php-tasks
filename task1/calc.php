@@ -27,7 +27,6 @@ if ($_POST) {
             break;
         
     }
-   // $message = "<div class='alert alert-success'><h3>{$_POST['btn']} For <span class='text-danger'>{$_POST['num1']}</span> And <span class='text-danger'>{$_POST['num2']}</span> Equal <span class='text-danger'>$result</span></h3></div>";
 }
 ?>
 <!doctype html>
